@@ -6,7 +6,7 @@ doesn't like reminiscing of their childhood and building their very own Pokedex!
 To start the web app, you will type 
 ### ``` npm start ```
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sv4RivLUN4M)
 
 # Development Environment
 
